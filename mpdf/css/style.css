@@ -1,0 +1,25 @@
+/* http://phpbego.wordpress.com */
+.container {
+	width: 970px;
+	margin: auto;
+	text-align: center;
+}
+.tengah {
+	text-align: center;
+}
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	width:100%;
+}
+table td {
+	border: 1px solid #000;
+	padding: 10px;
+}
+table th {
+	border: 1px solid #000;
+	/*border: 1px solid #fff;*/
+	/*background-color: #000;*/
+	/*color: #fff;*/
+	padding: 10px
+}
